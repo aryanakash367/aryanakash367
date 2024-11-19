@@ -1,5 +1,7 @@
 -Hii Myself Aryan Kumar , I have a solid foundation in Python, SQL, and machine learning, with practical experience in using libraries like Pandas, NumPy, Scikit-learn, and Matplotlib for data analysis and visualization. My expertise extends to building and optimizing machine learning models, performing exploratory data analysis, and working with databases for efficient data manipulation. Additionally, I am proficient in handling large datasets, leveraging tools like Excel and Google Colab to streamline workflows and generate actionable insights.
--feel free to contact me on aryanakash367@gmail.com for any collaboration,help or work.
+
+
+-Feel free to contact me on aryanakash367@gmail.com for any collaboration,help or work.
 
 
 
